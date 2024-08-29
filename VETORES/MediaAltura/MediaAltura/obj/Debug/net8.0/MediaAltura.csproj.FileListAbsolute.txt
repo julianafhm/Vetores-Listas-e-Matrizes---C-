@@ -1,0 +1,14 @@
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\bin\Debug\net8.0\MediaAltura.exe
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\bin\Debug\net8.0\MediaAltura.deps.json
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\bin\Debug\net8.0\MediaAltura.runtimeconfig.json
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\bin\Debug\net8.0\MediaAltura.dll
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\bin\Debug\net8.0\MediaAltura.pdb
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\obj\Debug\net8.0\MediaAltura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\obj\Debug\net8.0\MediaAltura.AssemblyInfoInputs.cache
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\obj\Debug\net8.0\MediaAltura.AssemblyInfo.cs
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\obj\Debug\net8.0\MediaAltura.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\obj\Debug\net8.0\MediaAltura.dll
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\obj\Debug\net8.0\refint\MediaAltura.dll
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\obj\Debug\net8.0\MediaAltura.pdb
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\obj\Debug\net8.0\MediaAltura.genruntimeconfig.cache
+C:\Users\Juliana\source\repos\MediaAltura\MediaAltura\obj\Debug\net8.0\ref\MediaAltura.dll

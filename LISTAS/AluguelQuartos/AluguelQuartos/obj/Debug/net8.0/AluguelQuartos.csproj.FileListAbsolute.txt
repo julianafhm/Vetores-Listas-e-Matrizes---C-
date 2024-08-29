@@ -1,0 +1,14 @@
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\bin\Debug\net8.0\AluguelQuartos.exe
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\bin\Debug\net8.0\AluguelQuartos.deps.json
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\bin\Debug\net8.0\AluguelQuartos.runtimeconfig.json
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\bin\Debug\net8.0\AluguelQuartos.dll
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\bin\Debug\net8.0\AluguelQuartos.pdb
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.AssemblyInfoInputs.cache
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.AssemblyInfo.cs
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.dll
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\refint\AluguelQuartos.dll
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.pdb
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.genruntimeconfig.cache
+C:\Users\Juliana\source\repos\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\ref\AluguelQuartos.dll

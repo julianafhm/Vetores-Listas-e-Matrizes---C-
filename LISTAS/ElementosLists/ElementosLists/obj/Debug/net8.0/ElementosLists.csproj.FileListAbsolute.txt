@@ -1,0 +1,14 @@
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\bin\Debug\net8.0\ElementosLists.exe
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\bin\Debug\net8.0\ElementosLists.deps.json
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\bin\Debug\net8.0\ElementosLists.runtimeconfig.json
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\bin\Debug\net8.0\ElementosLists.dll
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\bin\Debug\net8.0\ElementosLists.pdb
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\obj\Debug\net8.0\ElementosLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\obj\Debug\net8.0\ElementosLists.AssemblyInfoInputs.cache
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\obj\Debug\net8.0\ElementosLists.AssemblyInfo.cs
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\obj\Debug\net8.0\ElementosLists.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\obj\Debug\net8.0\ElementosLists.dll
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\obj\Debug\net8.0\refint\ElementosLists.dll
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\obj\Debug\net8.0\ElementosLists.pdb
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\obj\Debug\net8.0\ElementosLists.genruntimeconfig.cache
+C:\Users\Juliana\source\repos\ElementosLists\ElementosLists\obj\Debug\net8.0\ref\ElementosLists.dll

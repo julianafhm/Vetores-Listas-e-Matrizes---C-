@@ -1,0 +1,14 @@
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\bin\Debug\net8.0\PrecoProduto.exe
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\bin\Debug\net8.0\PrecoProduto.deps.json
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\bin\Debug\net8.0\PrecoProduto.runtimeconfig.json
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\bin\Debug\net8.0\PrecoProduto.dll
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\bin\Debug\net8.0\PrecoProduto.pdb
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\obj\Debug\net8.0\PrecoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\obj\Debug\net8.0\PrecoProduto.AssemblyInfoInputs.cache
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\obj\Debug\net8.0\PrecoProduto.AssemblyInfo.cs
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\obj\Debug\net8.0\PrecoProduto.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\obj\Debug\net8.0\PrecoProduto.dll
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\obj\Debug\net8.0\refint\PrecoProduto.dll
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\obj\Debug\net8.0\PrecoProduto.pdb
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\obj\Debug\net8.0\PrecoProduto.genruntimeconfig.cache
+C:\Users\Juliana\source\repos\PrecoProduto\PrecoProduto\obj\Debug\net8.0\ref\PrecoProduto.dll
